@@ -24,30 +24,30 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/powerbi.svg" width="45" height="45" alt="Power BI" />
       <br /><strong>Power BI / DAX</strong>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
       <br /><strong>R / Tidyverse</strong>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br /><strong>Python</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" />
       <br /><strong>SQL Relacional</strong>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/ArcGIS_Pro-E73330?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS Pro" />
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/arcgis.svg" width="40" height="40" alt="ArcGIS Pro" />
       <br /><strong>ArcGIS Pro / GIS</strong>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/ATLAS.ti-009688?style=for-the-badge&logo=opsgenie&logoColor=white" alt="ATLAS.ti" />
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/FuentesAntro/urban-parks-wellbeing-mairena/main/figures/GR%C3%81FICA%201.png" width="40" height="40" style="border-radius: 4px;" alt="ATLAS.ti" />
       <br /><strong>ATLAS.ti / Mixed</strong>
     </td>
   </tr>
