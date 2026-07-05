@@ -90,14 +90,6 @@
 
 ---
 
-### 📈 Estadísticas de GitHub (My Analytics)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuentesAntro&show_icons=true&theme=nord&count_private=true" alt="Estadísticas de FuentesAntro" width="400"/>
-</p>
-
----
-
 <div align="center">
   <p>📬 <strong>¿Hablamos?</strong> Si buscas un perfil analítico capaz de entender el contexto humano detrás de los números, conectemos.</p>
   <a href="https://www.linkedin.com/in/antonio-fuentes-moreno-9a08341a5/" target="_blank"><img src="https://img.shields.io/badge/CONECTAR_EN_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
