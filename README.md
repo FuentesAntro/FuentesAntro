@@ -52,16 +52,7 @@
       <br /><strong>ATLAS.ti / Mixed</strong>
     </td>
     <td align="center" width="150">
-      <svg width="40" height="40" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tableau">
-        <g fill="#1F77B4"><rect x="84" y="58" width="28" height="4" rx="1"/><rect x="96" y="46" width="4" height="28" rx="1"/></g>
-        <g fill="#FF7F0E"><rect x="77.9" y="85.9" width="20" height="4" rx="1"/><rect x="85.9" y="77.9" width="4" height="20" rx="1"/></g>
-        <g fill="#2CA02C"><rect x="44" y="96" width="32" height="4" rx="1"/><rect x="58" y="82" width="4" height="32" rx="1"/></g>
-        <g fill="#D62728"><rect x="23.1" y="85.9" width="18" height="4" rx="1"/><rect x="30.1" y="78.9" width="4" height="18" rx="1"/></g>
-        <g fill="#9467BD"><rect x="10" y="58" width="24" height="4" rx="1"/><rect x="20" y="48" width="4" height="24" rx="1"/></g>
-        <g fill="#17BECF"><rect x="17.1" y="30.1" width="30" height="4" rx="1"/><rect x="30.1" y="17.1" width="4" height="30" rx="1"/></g>
-        <g fill="#E377C2"><rect x="49" y="20" width="22" height="4" rx="1"/><rect x="58" y="11" width="4" height="22" rx="1"/></g>
-        <g fill="#BCBD22"><rect x="74.9" y="30.1" width="26" height="4" rx="1"/><rect x="85.9" y="19.1" width="4" height="26" rx="1"/></g>
-      </svg>
+      <img width="40" height="40" alt="Tableau" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxMjAgMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iVGFibGVhdSI+PGcgZmlsbD0iIzFGNzdCNCI+PHJlY3QgeD0iODQiIHk9IjU4IiB3aWR0aD0iMjgiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSI5NiIgeT0iNDYiIHdpZHRoPSI0IiBoZWlnaHQ9IjI4IiByeD0iMSIvPjwvZz48ZyBmaWxsPSIjRkY3RjBFIj48cmVjdCB4PSI3Ny45IiB5PSI4NS45IiB3aWR0aD0iMjAiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSI4NS45IiB5PSI3Ny45IiB3aWR0aD0iNCIgaGVpZ2h0PSIyMCIgcng9IjEiLz48L2c+PGcgZmlsbD0iIzJDQTAyQyI+PHJlY3QgeD0iNDQiIHk9Ijk2IiB3aWR0aD0iMzIiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSI1OCIgeT0iODIiIHdpZHRoPSI0IiBoZWlnaHQ9IjMyIiByeD0iMSIvPjwvZz48ZyBmaWxsPSIjRDYyNzI4Ij48cmVjdCB4PSIyMy4xIiB5PSI4NS45IiB3aWR0aD0iMTgiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSIzMC4xIiB5PSI3OC45IiB3aWR0aD0iNCIgaGVpZ2h0PSIxOCIgcng9IjEiLz48L2c+PGcgZmlsbD0iIzk0NjdCRCI+PHJlY3QgeD0iMTAiIHk9IjU4IiB3aWR0aD0iMjQiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSIyMCIgeT0iNDgiIHdpZHRoPSI0IiBoZWlnaHQ9IjI0IiByeD0iMSIvPjwvZz48ZyBmaWxsPSIjMTdCRUNGIj48cmVjdCB4PSIxNy4xIiB5PSIzMC4xIiB3aWR0aD0iMzAiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSIzMC4xIiB5PSIxNy4xIiB3aWR0aD0iNCIgaGVpZ2h0PSIzMCIgcng9IjEiLz48L2c+PGcgZmlsbD0iI0UzNzdDMiI+PHJlY3QgeD0iNDkiIHk9IjIwIiB3aWR0aD0iMjIiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSI1OCIgeT0iMTEiIHdpZHRoPSI0IiBoZWlnaHQ9IjIyIiByeD0iMSIvPjwvZz48ZyBmaWxsPSIjQkNCRDIyIj48cmVjdCB4PSI3NC45IiB5PSIzMC4xIiB3aWR0aD0iMjYiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSI4NS45IiB5PSIxOS4xIiB3aWR0aD0iNCIgaGVpZ2h0PSIyNiIgcng9IjEiLz48L2c+PC9zdmc+Cg==" />
       <br /><strong>Tableau</strong>
     </td>
     <td align="center" width="150">
