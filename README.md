@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/powerbi.svg" width="45" height="45" alt="Power BI" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI" />
       <br /><strong>Power BI / DAX</strong>
     </td>
     <td align="center" width="150">
@@ -43,11 +43,11 @@
       <br /><strong>SQL Relacional</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/arcgis.svg" width="40" height="40" alt="ArcGIS Pro" />
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ArcGIS_logo.png" width="40" height="40" alt="ArcGIS Pro" />
       <br /><strong>ArcGIS Pro / GIS</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FuentesAntro/urban-parks-wellbeing-mairena/main/figures/GR%C3%81FICA%201.png" width="40" height="40" style="border-radius: 4px;" alt="ATLAS.ti" />
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Atlas.ti.svg" width="65" height="16" alt="ATLAS.ti" />
       <br /><strong>ATLAS.ti / Mixed</strong>
     </td>
   </tr>
