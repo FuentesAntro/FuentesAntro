@@ -1,28 +1,27 @@
 <div align="center">
   <h1>Hi! I'm Antonio Fuentes Moreno 👋</h1>
   <p><strong>Data Analyst | Applied Data Science | SQL, Python, R, Power BI</strong></p>
+
   <p>
     <a href="https://www.linkedin.com/in/antonio-fuentes-moreno-9a08341a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:antonio004fm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
-🚀 About Me
+---
 
+### 🚀 About Me
 
-I bridge the gap between human behavior and hard data. As an Anthropologist trained in Advanced Data Science, I specialize in extracting, modeling, and visualizing complex qualitative and quantitative datasets.
+> **I bridge the gap between human behavior and hard data.** As an Anthropologist trained in Advanced Data Science, I specialize in extracting, modeling, and visualizing complex qualitative and quantitative datasets.
 
+* 💼 **Target Location:** Seville (Isla de la Cartuja Tech Hub) / Remote Spain.
+* 📜 **Core Certification:** Microsoft Certified: Power BI Data Analyst Associate.
+* 🎓 **Education:** MSc in Applied Data Science for Social Sciences (USAL + UGR, 2026–2027) · BA in Social and Cultural Anthropology (University of Seville, 2022–2026).
+* 🌐 **Languages:** Spanish (native) · English (Upper-Intermediate, Cambridge PET).
 
+---
 
-
-💼 Target Location: Seville (Isla de la Cartuja Tech Hub) / Remote Spain.
-📜 Core Certification: Microsoft Certified: Power BI Data Analyst Associate.
-🎓 Education: MSc in Applied Data Science for Social Sciences (USAL + UGR, 2026–2027) · BA in Social and Cultural Anthropology (University of Seville, 2022–2026).
-🌐 Languages: Spanish (native) · English (Upper-Intermediate, Cambridge PET).
-
-
-
-🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <table align="center">
   <tr>
@@ -53,7 +52,16 @@ I bridge the gap between human behavior and hard data. As an Anthropologist trai
       <br /><strong>ATLAS.ti / Mixed</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tableau_Software_Logo_Small.png" width="70" height="14" alt="Tableau" />
+      <svg width="40" height="40" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tableau">
+        <g fill="#1F77B4"><rect x="84" y="58" width="28" height="4" rx="1"/><rect x="96" y="46" width="4" height="28" rx="1"/></g>
+        <g fill="#FF7F0E"><rect x="77.9" y="85.9" width="20" height="4" rx="1"/><rect x="85.9" y="77.9" width="4" height="20" rx="1"/></g>
+        <g fill="#2CA02C"><rect x="44" y="96" width="32" height="4" rx="1"/><rect x="58" y="82" width="4" height="32" rx="1"/></g>
+        <g fill="#D62728"><rect x="23.1" y="85.9" width="18" height="4" rx="1"/><rect x="30.1" y="78.9" width="4" height="18" rx="1"/></g>
+        <g fill="#9467BD"><rect x="10" y="58" width="24" height="4" rx="1"/><rect x="20" y="48" width="4" height="24" rx="1"/></g>
+        <g fill="#17BECF"><rect x="17.1" y="30.1" width="30" height="4" rx="1"/><rect x="30.1" y="17.1" width="4" height="30" rx="1"/></g>
+        <g fill="#E377C2"><rect x="49" y="20" width="22" height="4" rx="1"/><rect x="58" y="11" width="4" height="22" rx="1"/></g>
+        <g fill="#BCBD22"><rect x="74.9" y="30.1" width="26" height="4" rx="1"/><rect x="85.9" y="19.1" width="4" height="26" rx="1"/></g>
+      </svg>
       <br /><strong>Tableau</strong>
     </td>
     <td align="center" width="150">
@@ -63,7 +71,9 @@ I bridge the gap between human behavior and hard data. As an Anthropologist trai
   </tr>
 </table>
 
-🧭 Research Methodology
+---
+
+### 🧭 Research Methodology
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Mixed%20Methods-4B8BBE?style=flat-square" alt="Mixed Methods" />
@@ -77,24 +87,21 @@ I bridge the gap between human behavior and hard data. As an Anthropologist trai
   <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square" alt="NLP" />
 </p>
 
-I combine the rigor of qualitative fieldwork (interviews, participant observation, thematic analysis) with quantitative modeling and visualization, turning human context into evidence-based decisions.
+> I combine the rigor of qualitative fieldwork (interviews, participant observation, thematic analysis) with quantitative modeling and visualization, turning human context into evidence-based decisions.
 
+---
 
+### 💼 Experience
 
+**Data Analysis Researcher** · SOLDECOCOS — Coastal Communities Development
+`Feb–Mar 2026 · 150 h · Seville`
+- Mixed-methods analysis of the socio-environmental impact of invasive algae in the Strait of Gibraltar.
+- Ethnographic coding with **ATLAS.ti** · Sankey diagrams and co-occurrence matrices in **R**.
+- Recognized by the project director for technical rigor and reliability *(certificate available)*.
 
-💼 Experience
+---
 
-Data Analysis Researcher · SOLDECOCOS — Coastal Communities Development
-Feb–Mar 2026 · 150 h · Seville
-
-
-Mixed-methods analysis of the socio-environmental impact of invasive algae in the Strait of Gibraltar.
-Ethnographic coding with ATLAS.ti · Sankey diagrams and co-occurrence matrices in R.
-Recognized by the project director for technical rigor and reliability (certificate available).
-
-
-
-📂 Featured Data Solutions
+### 📂 Featured Data Solutions
 
 <table>
   <tr>
@@ -127,7 +134,9 @@ Recognized by the project director for technical rigor and reliability (certific
   </tr>
 </table>
 
-📜 Certifications
+---
+
+### 📜 Certifications
 
 <table align="center">
   <tr>
@@ -141,18 +150,20 @@ Recognized by the project director for technical rigor and reliability (certific
     <td align="center" width="200">🎯<br /><strong>UX Research and Design</strong><br /><sub>Univ. of Michigan · Coursera</sub></td>
   </tr>
 </table>
+
 <details>
 <summary><sub>See additional certifications</sub></summary>
 <br />
 
-Excel Skills for Business — Macquarie University · Coursera
-SPSS Course — Bioestadístico.com
-Cambridge English PET — Cambridge Assessment
-Project Design and Management — University of Seville
-Digital Cultural Production Management — UNED (10 ECTS)
-
+- **Excel Skills for Business** — Macquarie University · Coursera
+- **SPSS Course** — Bioestadístico.com
+- **Cambridge English PET** — Cambridge Assessment
+- **Project Design and Management** — University of Seville
+- **Digital Cultural Production Management** — UNED (10 ECTS)
 
 </details>
+
+---
 
 <div align="center">
   <p>📬 <strong>Let's talk?</strong> If you're looking for an analytical profile that understands the human context behind the numbers, let's connect.</p>
