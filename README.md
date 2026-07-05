@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI" />
       <br /><strong>Power BI / DAX</strong>
     </td>
     <td align="center" width="150">
@@ -42,8 +42,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" />
       <br /><strong>SQL Relacional</strong>
     </td>
-<td align="center" width="150">
-      <img src="https://img.shields.io/badge/ATLAS.ti-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDQgNnYxMmw4IDQgOC00VjZsemi02IDE0VjlsNiAzem04IDBsLTYtM1Y5bDYtM3oiLz48L3N2Zz4=" alt="ATLAS.ti" />
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons@main/icons/arcgis.svg" width="40" height="40" alt="ArcGIS" />
+      <br /><strong>ArcGIS Pro / GIS</strong>
     </td>
     <td align="center" width="150">
       <img src="https://img.icons8.com/color/96/data-configuration.png" width="40" height="40" alt="ATLAS.ti" />
