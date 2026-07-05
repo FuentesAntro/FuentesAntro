@@ -29,25 +29,24 @@
       <br /><strong>Power BI / DAX</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
       <br /><strong>R / Tidyverse</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br /><strong>Python</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/SQL_Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" />
       <br /><strong>SQL Relacional</strong>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/ArcGIS_Pro-E73330?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" />
-      <br /><strong>ArcGIS Pro / GIS</strong>
+<td align="center" width="150">
+      <img src="https://img.shields.io/badge/ATLAS.ti-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDQgNnYxMmw4IDQgOC00VjZsemi02IDE0VjlsNiAzem04IDBsLTYtM1Y5bDYtM3oiLz48L3N2Zz4=" alt="ATLAS.ti" />
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/ATLAS.ti-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDQgNnYxMmw4IDQgOC00VjZsemi02IDE0VjlsNiAzem04IDBsLTYtM1Y5bDYtM3oiLz48L3N2Zz4=" alt="ATLAS.ti" />
+      <img src="https://img.icons8.com/color/96/data-configuration.png" width="40" height="40" alt="ATLAS.ti" />
       <br /><strong>ATLAS.ti / Mixed</strong>
     </td>
   </tr>
@@ -87,6 +86,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📈 Estadísticas de GitHub (My Analytics)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FuentesAntro&show_icons=true&theme=nord&count_private=true" alt="Estadísticas de FuentesAntro" width="400"/>
+</p>
 
 ---
 
