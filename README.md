@@ -3,8 +3,8 @@
   <p><strong>Social Data Scientist | Anthropology Graduate | Microsoft Certified Power BI Data Analyst</strong></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:tu_correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/antonio-fuentes-moreno-9a08341a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:antonio004fm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
@@ -90,7 +90,15 @@
 
 ---
 
+### 📈 Estadísticas de GitHub (My Analytics)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FuentesAntro&show_icons=true&theme=nord&count_private=true" alt="Estadísticas de FuentesAntro" width="400"/>
+</p>
+
+---
+
 <div align="center">
   <p>📬 <strong>¿Hablamos?</strong> Si buscas un perfil analítico capaz de entender el contexto humano detrás de los números, conectemos.</p>
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/CONECTAR_EN_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/antonio-fuentes-moreno-9a08341a5/" target="_blank"><img src="https://img.shields.io/badge/CONECTAR_EN_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
