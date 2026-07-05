@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Antonio Fuentes Moreno 👋</h1>
-  <p><strong>Social Data Scientist | Anthropology Graduate | Microsoft Certified Power BI Data Analyst</strong></p>
+  <p><strong>Data Analyst | Ciencia de Datos Aplicada | SQL, Python, R, Power BI</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/antonio-fuentes-moreno-9a08341a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre Mí
 
-> **I bridge the gap between human behavior and hard data.** As an Anthropologist trained in Advanced Data Science, I specialize in extracting, modeling, and visualizing complex qualitative and quantitative datasets. My goal is to translate human, socio-economic, and territorial insights into strategic corporate and public solutions.
+> **I bridge the gap between human behavior and hard data.** As an Anthropologist trained in Advanced Data Science, I specialize in extracting, modeling, and visualizing complex qualitative and quantitative datasets.
 
 * 💼 **Target Location:** Seville (Isla de la Cartuja Tech Hub) / Remote Spain.
 * 📜 **Core Certification:** Microsoft Certified: Power BI Data Analyst Associate.
@@ -87,14 +87,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 Estadísticas de GitHub (My Analytics)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuentesAntro&show_icons=true&theme=nord&count_private=true" alt="Estadísticas de FuentesAntro" width="400"/>
-</p>
 
 ---
 
