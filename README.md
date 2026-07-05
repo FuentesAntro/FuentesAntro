@@ -43,11 +43,11 @@
       <br /><strong>SQL Relacional</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons@main/icons/arcgis.svg" width="40" height="40" alt="ArcGIS" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.svg" width="40" height="40" alt="ArcGIS Pro" />
       <br /><strong>ArcGIS Pro / GIS</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/data-configuration.png" width="40" height="40" alt="ATLAS.ti" />
+      <img src="https://img.icons8.com/external-flat-icons-inspirational-three-barbs/96/external-Data-Analysis-big-data-flat-icons-inspirational-three-barbs.png" width="42" height="42" alt="ATLAS.ti" />
       <br /><strong>ATLAS.ti / Mixed</strong>
     </td>
   </tr>
